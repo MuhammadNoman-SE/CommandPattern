@@ -1,0 +1,9 @@
+D:\CommandPattern\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.deps.json
+D:\CommandPattern\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.dll
+D:\CommandPattern\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.pdb
+D:\CommandPattern\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csprojAssemblyReference.cache
+D:\CommandPattern\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.AssemblyInfoInputs.cache
+D:\CommandPattern\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.AssemblyInfo.cs
+D:\CommandPattern\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csproj.CoreCompileInputs.cache
+D:\CommandPattern\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.dll
+D:\CommandPattern\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.pdb
